@@ -1,6 +1,6 @@
 # API and Web Data Scraping
 
-![pop](pop.png)
+![pop](pop.jpg)
 
 ## Goals
 Practice what I learned in the APIs and Web Scraping lessons. 
