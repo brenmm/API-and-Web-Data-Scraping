@@ -1,0 +1,11 @@
+,Title,Vote_average,Sentiment
+1,Forrest Gump,8.5,"polarity 0.258,subjectivity 0.519"
+2,Pulp Fiction,8.2,"polarity 0.167,subjectivity 0.334"
+3,The Shining,8.4,"polarity 0.136,subjectivity 0.5"
+4,Fight Club,8.2,"polarity -0.216,subjectivity 0.513"
+5,Joker,7.6,"polarity -0.387,subjectivity 0.787"
+6,The Terminator,7.2,"polarity 0.0,subjectivity 0.04"
+7,The Hunger Games,8.5,"polarity -0.138,subjectivity 0.486"
+8,The Dark Knight,7.2,"polarity 0.025,subjectivity 0.475"
+9,Skyfall,8.1,"polarity -0.052,subjectivity 0.791"
+10,Some Like It Hot,7,"polarity 0.142,subjectivity 0.639"
